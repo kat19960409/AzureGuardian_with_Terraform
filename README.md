@@ -1,6 +1,6 @@
 # AzureGuardian_with_Terraform
 
-https://lucid.app/lucidchart/4415177d-317c-4be1-a539-9ad9a7aea69f/edit?view_items=tj2TrzQJw2eb&invitationId=inv_a9d99b78-915b-46bf-9a5b-67669997ec9f
+https://lucid.app/publicSegments/view/ba823730-1317-427b-9dd5-171af9b163d5/image.pdf
 
 # AzureGuardian
 
